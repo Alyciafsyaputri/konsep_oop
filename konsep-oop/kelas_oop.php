@@ -14,4 +14,5 @@ class Product
     }
 }
 
-$product = new product('Smartphone',5000000, 'Smartphone terbaru dengan kamera berkualitas tinggi');
+$product1= new product('Smartphone',5000000, 'Smartphone terbaru dengan kamera berkualitas tinggi');
+$product2= new product('Iphone',15000000,'Smartphone terbaru dengan qualityu terbaik');
